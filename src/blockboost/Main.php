@@ -11,7 +11,7 @@ use pocketmine\item\Item;
 use pocketmine\block\Block;
 use pocketmine\level\sound\GhastSound;
 
-class Main extends Plugin implements Listener 
+class Main extends PluginBase{
 
 {
 	public function onEnable() 
